@@ -2,3 +2,4 @@
 Simple calories counter
 
 No RWD!
+No server needed.
